@@ -1,6 +1,6 @@
 # xlsx-extract 
 
--- extracts data from XLSX files with low memory footprint
+-- extracts data from XLSX files with low memory footprint 
 
 
 xlsx-files can get pretty large, so nodejs & full featured xlsx-modules often reach memory limits or just use more than is needed for that task.
